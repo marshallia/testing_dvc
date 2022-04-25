@@ -1,0 +1,4 @@
+[core]
+    autostage = true
+['remote "catdog"']
+    url = gdrive://1fa1l1DaXqrAgOa8ZhPo_SNiski8PlmZU
